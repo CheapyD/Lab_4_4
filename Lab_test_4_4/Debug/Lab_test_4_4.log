@@ -1,0 +1,5 @@
+﻿  Lab_test_4_4.cpp
+C:\Users\maksd\source\repos\Lab_4_4\Lab_4_4\FuzzyNumber.h(2,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\maksd\source\repos\Lab_4_4\Lab_4_4\FuzzyNumber.cpp(1,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\maksd\source\repos\Lab_4_4\Lab_test_4_4\Lab_test_4_4.cpp(3,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+  Lab_test_4_4.vcxproj -> C:\Users\maksd\source\repos\Lab_4_4\Debug\Lab_test_4_4.dll
